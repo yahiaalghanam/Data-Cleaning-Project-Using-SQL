@@ -1,6 +1,3 @@
-Sure, here's the structured README content for your GitHub project:
-
----
 
 # Houses Data Cleaning Using SQL Project
 
@@ -185,6 +182,3 @@ SELECT * FROM houses;
 ```
 This query drops the `SaleDate` and `SoldAsVacant` columns from the `houses` table, cleaning up unused data.
 
----
-
-Feel free to copy and paste this into your GitHub README file. Adjust any sections as necessary to fit your project's specific details and requirements.
